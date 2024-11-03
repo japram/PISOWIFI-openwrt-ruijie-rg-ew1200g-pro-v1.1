@@ -1,16 +1,3 @@
-# PISOWIFI-openwrt-ruijie-rg-ew1200g-pro-v1.1
-Pisowifi is a community-driven project focused on installing and optimizing OpenWrt on Pisowifi devices. It provides guides, firmware files, and tools to enhance your router's functionality. By using OpenWrt, users can unlock advanced features and improve performance, making their home or office networking more customizable and efficient.
-
-Description
-A repository for flashing OpenWrt on the Ruijie EW1200G Pro router. This project aims to provide a comprehensive guide and necessary files for users looking to install OpenWrt on this device.
-
-Table of Contents
-Introduction
-Requirements
-Installation Guide
-Troubleshooting
-Contributing
-License
 Introduction
 The Ruijie EW1200G Pro is a popular router, and installing OpenWrt can enhance its functionality with additional features and customizations. This project provides step-by-step instructions and resources to help users install OpenWrt safely and effectively.
 
