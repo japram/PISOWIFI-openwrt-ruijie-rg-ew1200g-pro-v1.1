@@ -1,38 +1,43 @@
-Introduction
+# OpenWrt for Ruijie EW1200G Pro
+
+## Introduction
 The Ruijie EW1200G Pro is a popular router, and installing OpenWrt can enhance its functionality with additional features and customizations. This project provides step-by-step instructions and resources to help users install OpenWrt safely and effectively.
 
-Requirements
-Ruijie EW1200G Pro router
-A computer with access to the router
-Ethernet cable
-OpenWrt firmware file compatible with Ruijie EW1200G Pro
-Installation Guide
-Download OpenWrt Firmware:
+## Requirements
+- Ruijie EW1200G Pro router
+- A computer with access to the router
+- Ethernet cable
+- OpenWrt firmware file compatible with the Ruijie EW1200G Pro
 
-Visit the OpenWrt firmware download page and find the appropriate firmware for the EW1200G Pro.
-Connect to the Router:
+## Installation Guide
 
-Use an Ethernet cable to connect your computer to one of the LAN ports on the EW1200G Pro.
-Access the Router's Admin Interface:
+### 1. Download OpenWrt Firmware
+- Visit the [OpenWrt firmware download page](https://downloads.openwrt.org/) and find the appropriate firmware for the EW1200G Pro.
 
-Open a web browser and enter the router's IP address (default is usually 192.168.1.1).
-Log in with your admin credentials.
-Backup Current Configuration (Optional):
+### 2. Connect to the Router
+- Use an Ethernet cable to connect your computer to one of the LAN ports on the EW1200G Pro.
 
-It's always a good idea to backup your current settings before flashing new firmware.
-Flash OpenWrt:
+### 3. Access the Router's Admin Interface
+- Open a web browser and enter the router's IP address (default is usually `192.168.1.1`).
+- Log in with your admin credentials.
 
-Navigate to the firmware upgrade section in the router's admin interface.
-Upload the OpenWrt firmware file and start the upgrade process.
-Wait for the router to reboot.
-Access OpenWrt:
+### 4. Backup Current Configuration (Optional)
+- It's always a good idea to back up your current settings before flashing new firmware.
 
-Once the router has rebooted, you should be able to access the OpenWrt interface at 192.168.1.1.
-Troubleshooting
-If the router does not boot after flashing, you may need to perform a hard reset.
-If you cannot access the OpenWrt interface, check your Ethernet connection and IP settings.
-Contributing
+### 5. Flash OpenWrt
+- Navigate to the firmware upgrade section in the router's admin interface.
+- Upload the OpenWrt firmware file and start the upgrade process.
+- Wait for the router to reboot.
+
+### 6. Access OpenWrt
+- Once the router has rebooted, you should be able to access the OpenWrt interface at `192.168.1.1`.
+
+## Troubleshooting
+- If the router does not boot after flashing, you may need to perform a hard reset.
+- If you cannot access the OpenWrt interface, check your Ethernet connection and IP settings.
+
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
