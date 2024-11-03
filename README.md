@@ -40,4 +40,4 @@ The Ruijie EW1200G Pro is a popular router, and installing OpenWrt can enhance i
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+OpenWrt is licensed under GPL-2.0.
