@@ -12,13 +12,13 @@ The Ruijie EW1200G Pro is a popular router, and installing OpenWrt can enhance i
 ## Installation Guide
 
 ### 1. Download OpenWrt Firmware
-- Visit the [OpenWrt firmware download page](https://downloads.openwrt.org/) and find the appropriate firmware for the EW1200G Pro.
+- Visit the [OpenWrt firmware download page]([https://downloads.openwrt.org/](https://downloads.openwrt.org/snapshots/targets/ramips/mt7621/)) and find the appropriate firmware for the EW1200G Pro.
 
 ### 2. Connect to the Router
 - Use an Ethernet cable to connect your computer to one of the LAN ports on the EW1200G Pro.
 
 ### 3. Access the Router's Admin Interface
-- Open a web browser and enter the router's IP address (default is usually `192.168.1.1`).
+- Open a web browser and enter the router's IP address (default is usually `192.168.110.1`).
 - Log in with your admin credentials.
 
 ### 4. Backup Current Configuration (Optional)
